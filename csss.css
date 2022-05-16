@@ -1,0 +1,523 @@
+body{
+    margin: 0px;
+}
+.mainbg{
+    background-image: url(mainbgedit.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 825px;
+}
+.image{
+width: 60px;
+margin-left: 65px;
+margin-top: 27px;
+}
+.browse{
+margin-left: 200px;
+margin-top: -21px;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+.searchbox{
+    text-align: center;
+    position: absolute;
+    background-color:#94949e;
+    border: 0px;
+    top: 20px;
+    width: 400px;
+    height: 34px;
+    left:460px;
+    border-radius:100px ;
+    
+    
+}
+.searchicon{
+    color: rgb(125, 125, 161);
+    position: absolute;
+    left: 473px;
+    top: 29px;
+    width: 20px;
+}
+.maintext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 56px;
+    letter-spacing:0.3px;
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    top: 281px;
+    left: 65px;
+}
+.subtext{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 487px;
+    left: 65px;
+    line-height: 32.8px;
+    font-size: 22px;
+    color: white;
+
+}
+.start{
+    position: absolute;
+    left: 65px;
+    top: 556px;
+    width: 210px;
+    height: 56px;
+    font-weight: bold;
+    background-color: orangered;
+    color: white;
+    border: 0px;
+}
+.second{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 700px;
+}
+.streamanywhere{
+    color: #26262d;
+    font-size: 48px;
+    line-height: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 109px;
+    margin-left: 470px;
+}
+.secondsub{
+    margin-top: 40px;
+    margin-left: 0px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 32px;
+    color: #26262d;
+    font-family:sans-serif;
+    font-weight: lighter
+
+    
+
+}
+.table{
+    width: 409px;
+    height: 427px;
+    margin-left: 470px;
+    margin-top: 5px;
+}
+.roku{margin-top: 50px;
+    width: 81px;
+    height: 27px;
+}
+.amazon{
+    margin-top:-17px;
+    width: 109px;
+    height: 27px;
+    margin-left: 130px;
+}
+.samsung{
+    margin-top: -31px;
+    width: 109px;
+    height: 27px;
+    margin-left: 290px;
+}
+.sony{
+    width: 81px;
+    height: 27px;
+    margin-top: 50px;
+}
+.android{
+    width: 109px;
+    height: 31px;
+    margin-left: 130px;
+    margin-top: -35px;
+}
+.chromecast{
+    width: 109px;
+    height: 27px;
+    margin-left: 290px;
+    margin-top: -30px;
+}
+.ios{
+    width: 68px;
+    height: 27px;
+    margin-top: 30px;
+}
+.appletv{
+    width: 68px;
+    height: 27px;
+    margin-left: 150px;
+    margin-top: -22px;
+}
+.xbox{
+    width: 68px;
+    height: 28px;
+    margin-left: 310px;
+    margin-top: -20px;
+}
+.ps4{
+    width: 68px;
+    height: 27px;
+    margin-top: 35px;
+}
+.vizio{
+    width: 68px;
+    height: 27px;
+    margin-left: 150px;
+    margin-top: -22px;
+}
+.xfinity{
+    width: 68px;
+    height: 28px;
+    margin-left: 310px;
+    margin-top: -30px;
+}
+.supported{
+    width: 210px;
+    height: 56px;
+    margin-left: 80px;
+    margin-top: 70px;
+    background-color: #26262d;
+    border: 0px;
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.third{
+    background-image: url(thirdbg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 686px;
+
+}
+.thousand{
+    position: relative;
+    top: 93px;;
+    text-align: center;
+    line-height: 64px;
+    font-size: 67px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  
+    color: white;
+}
+.thirdsub{
+  
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 20px;
+    line-height: 32px;
+    font-size: 22px;
+    margin-top: 160px;
+
+}
+.wb img{
+    width: 1.6cm;
+    height: 1.9cm;
+   margin-top: 40px;
+   margin-left: 400px;
+    
+}
+.mgm img{
+    width: 2cm;
+    height: 2cm;
+    margin-left: 530px;
+    position: relative;
+    top: -72px;
+
+}
+.paramount img{
+    width: 2.7cm;
+    height: 2cm;
+    margin-left: 700px;
+    position: relative;
+    top: -160px;
+    
+}
+.lionsgate img{
+    width: 2cm;
+    height: .5cm;
+    margin-left: 870px;
+    position: relative;
+    top: -190px;
+}
+.browsetitle{
+    width: 210px;
+    height: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #26262d;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    left: 560px;
+    top: -100px;
+    
+
+}
+.fourth{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+}
+.faq{
+    text-align: center;
+    line-height: 64px;
+    font-size: 48px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 100px;
+}
+.tab1{
+    background-color: #94949e;
+    width: 604px;
+    height: 89px;
+    margin-top: 150px;
+    position: absolute;
+    left:372px;
+    text-align:left;
+    font-size: 28px;
+}
+.tab1 p{
+    position: relative;
+    left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tab2{
+    background-color: #94949e;
+    width: 604px;
+    height: 89px;
+    margin-top: 260px;
+    position: absolute;
+    left:372px;
+}
+.tab2 p{
+    font-size: 28px;
+    position:relative;
+    left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tab3{
+    background-color: #94949e;
+    width: 604px;
+    height: 89px;
+    margin-top: 370px;
+    position: absolute;
+    left:372px;
+}
+.tab3 p{
+    font-size: 28px;
+    position: relative;
+    left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tab1 img{
+    width: .8cm;
+    height: .8cm;
+    position:relative;
+    left: 320px;
+}
+.tab2 img{
+    width: .8cm;
+    height: .8cm;
+    position:relative;
+    left: 240px;
+}
+.tab3 img{
+    width: .8cm;
+    height: .8cm;
+    position:relative;
+    left: 315px;
+}
+.fifth{
+    background-image: url("fifth.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 385px;
+}
+.f1{
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    line-height: 32px;
+    position: relative;
+    top: 75px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.f2{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    line-height: 32px;
+    position: relative;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    opacity: 50%;
+    
+
+}
+.lastbutton{
+    background-color: white;
+    color: rgb(68, 19, 70);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    width: 210px;
+    height: 56px;
+    position: relative;
+    left: 570px;
+    top: 150px;
+    border: 0px;
+}
+.last{
+    /* display: flex; */
+    position: relative;
+    background-color: #10141f;
+    width: 100%;
+    height: 690px;
+}
+.tubi-t{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 1.5cm;
+    height: .7cm;
+
+}
+.line1{
+    height: 1px;
+    width: 245px;
+    background-color: #645d7c;
+    border: 5px;
+    position: relative;
+    left: 50px;
+    top: 63px;
+    opacity: 30%;
+}
+.fb img{
+    width: .5cm;
+    height: .5cm;
+    position: relative;
+    top: 30px;
+    left: 1100px;
+}
+.insta img{
+    width: .5cm;
+    height: .5cm;
+    position: relative;
+    left: 1140px;
+    top: 7px;
+
+}
+.twitter img{
+    width: .5cm;
+    height: .5cm;
+    position: relative;
+    left: 1180px;
+    top: -15px;
+
+}
+.linkedin img{
+    width: .5cm;
+    height: .5cm;
+    position: relative;
+    left: 1220px;
+    top: -39px;
+}
+.line2{
+    width: 200px;
+    height: 1px;
+    position: relative;
+    left: 1100px;
+    top: -25px;
+    background-color: #645d7c;
+    opacity: 30%;
+}
+.one,.two,.three,.four,.five{
+    border:0px;
+    flex: 1;
+    /* width: 4cm; */
+    height: auto;
+    background-color:#10141f;
+} 
+.lastsub{
+    display: flex;
+    background-color:#10141f;
+    width: 100%;
+    height: 5cm;
+    justify-content: space-evenly;
+}
+.one1,.two2,.three3,.four4,.five5{
+    
+    list-style-type:none;
+    text-align:center;
+    text-align: justify;
+    font-size: 11px;
+    line-height: 12.65px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: relative;
+    left: 14px;
+}
+.one h3,.two h3,.three h3,.four h3,.five h3{
+    position: relative;
+    left: -50px;
+    font-size: 13px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #707c86;
+}
+.six{
+    
+        border:0px;
+        width: 10cm;
+        height: 4cm;
+        background-color:#10141f;
+} 
+.six h3{
+    color: #707c86;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    left: 50px;
+    
+}
+.six6{
+    list-style-type: none;
+    text-align: justify;
+    font-size: 11px;
+    line-height: 13px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 11px;
+}
+.twobutton{
+    background-color:#10141f;
+    width: 100%;
+    height: 100px;
+}
+.googleplay{
+    width:2.5cm;
+    height: 1.5cm;
+   position: relative;
+   left: 690px;
+}
+.appstore{
+    width:2.5cm;
+    height:1.5cm;
+    position: relative;
+    left: 450px;
+}
+.last p{
+    font-family:sans-serif;
+    font-size: 11px;
+    color: white;
+    opacity: 20%;
+    text-align: center;
+    font-weight: lighter;
+}
